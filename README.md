@@ -1,4 +1,4 @@
-# 📊 Customer Churn Analysis (Excel Project)
+# 📊 Customer Churn Analysis 
 ![Churn Dashboard](https://github.com/YashaswiniBaglakadi/Customer-Churn-Analysis/blob/1dd1da066d3d5a8d9552b543318a332e682d4a97/churn/churn%20data%20image.png)
 
 ## 📌 Overview
@@ -13,8 +13,15 @@ An interactive dashboard was created with charts, KPIs, and slicers for better v
 - Key metrics: Retention rate, churn reasons, high-risk groups  
 ---
 ## 📊 Dashboard Preview
-![Dashboard Preview](https://github.com/YashaswiniBaglakadi/Customer-Churn-Analysis/blob/1dd1da066d3d5a8d9552b543318a332e682d4a97/churn/churn%20data%20image.png)
-
+![Dashboard Preview](https://github.com/YashaswiniBaglakadi/Customer-Churn-Analysis/blob/1dd1da066d3d5a8d9552b543318a332e682d4a97/churn/Churn%20data%20dashboard.png)
+-This dashboard summarizes bank customer churn analysis:
+ Total churn: 2041 customers.
+ Churn is highest in Germany and France, each near 40%, lowest in Spain.
+ More females (55.9%) churned than males.
+ Nearly all churners (99.8%) had no complaints.
+ Diamond card holders have the highest churn, followed by Platinum and Silver.
+ Churn peaks for customers aged 38-47 and is highest for satisfaction score
+ 
 ---
 ## 🛠 Tools Used
 - Microsoft Excel  
@@ -28,7 +35,6 @@ An interactive dashboard was created with charts, KPIs, and slicers for better v
 - `churn` → Banner image for project and preview dashboard image   
 - `README.md` → Project documentation  
 ---
-## 🔗 Related Projects
-- ![Churun Data Analysis](https://github.com/YashaswiniBaglakadi/Customer-Churn-Analysis/tree/1dd1da066d3d5a8d9552b543318a332e682d4a97/Customer%20Churn%20data/dashboard)
-- [Excel Projects Portfolio](https://github.com/your-username/excel-projects-portfolio)
+## 🔗 Project (Excel File)
+ (https://1drv.ms/x/c/907f0a1104ef2e81/EakKITxBH11PnLhzK2bKLwoBPygIc3nVxjaC7NiVBj4Zdg?e=QIpYSg)
 
